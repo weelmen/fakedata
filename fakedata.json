@@ -1,0 +1,59 @@
+{
+    "fakeuserdata": [
+        {
+            "id": 1,
+            "firstname": "abderrahim",
+            "lastname": "oueslati",
+            "country": "tunisia",
+            "birthday": "24/02/1997",
+            "password": "changeme"
+        },
+        {
+            "id": 2,
+            "firstname": "romio",
+            "lastname": "katousa",
+            "country": "italy",
+            "birthday": "24/02/1860",
+            "password": "juliette"
+        }
+    ],
+    "fakerestaurantsdata": [
+        {
+            "id": 1,
+            "name": "mcdonalds",
+            "profilesrcimg": "ReactNativeApp1/images/menu1.jpeg"
+        }
+    ],
+    "fakemenusdata": [
+        {
+            "id": 1,
+            "name": "name1",
+            "srcimg": "ReactNativeApp1/images/Menu1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "name2",
+            "srcimg": "ReactNativeApp1/images/Menu2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "name3",
+            "srcimg": "ReactNativeApp1/images/Menu3.jpg"
+        },
+        {
+            "id": 4,
+            "name": "name4",
+            "srcimg": "ReactNativeApp1/images/Menu4.jpg"
+        },
+        {
+            "id": 5,
+            "name": "name5",
+            "srcimg": "ReactNativeApp1/images/Menu5.jpg"
+        },
+        {
+            "id": 6,
+            "name": "name6",
+            "srcimg": "ReactNativeApp1/images/Menu6.jpg"
+        }
+    ]
+}
